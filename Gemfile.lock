@@ -98,11 +98,11 @@ GEM
     custom_fields (1.0.0.beta.25)
       activesupport (~> 3.0.9)
       mongoid (= 2.0.2)
-    daemons (1.0.10)
+    daemons (1.1.0)
     dalli (1.1.4)
     delayed_job (3.0.0.pre4)
       activesupport (~> 3.0)
-      daemons (= 1.0.10)
+      daemons (= 1.1.0)
     delayed_job_mongoid (1.0.6)
       delayed_job (= 3.0.0.pre4)
       mongoid (>= 2.0)
@@ -241,7 +241,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  daemons (= 1.0.10)
   dalli (= 1.1.4)
   locomotive_cms!
   rails (= 3.0.10)

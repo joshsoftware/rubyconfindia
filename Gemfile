@@ -5,7 +5,6 @@ gem 'locomotive_cms', :git => 'git://github.com/locomotivecms/engine.git', :requ
 gem 'unicorn', :group => 'development'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
-gem 'daemons', '1.0.10'
 
 
 # Use unicorn as the web server
