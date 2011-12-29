@@ -10,7 +10,7 @@ gem 'heroku'
 
 # Use unicorn as the web server
 # gem 'unicorn'
-
+gem 'dalli'
 # Deploy with Capistrano
 # gem 'capistrano'
 
