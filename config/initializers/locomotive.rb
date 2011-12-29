@@ -31,10 +31,10 @@ Locomotive.configure do |config|
   # there are 2 ways of passing heroku credentials to Locomotive
   #   - from ENV variables: HEROKU_LOGIN & HEROKU_PASSWORD
   #   - from this file, see the example below and uncomment it if needed
-  # config.heroku = {
-  #   :login      => '<your_heroku_login>',
-  #   :password   => '<your_heroku_password>'
-  # }
+   config.heroku = {
+     :login      => 'narutosanjiv@gmail.com',
+     :password   => 'iloveyoukenshin'
+   }
 
   # Locomotive uses the DelayedJob gem for the site import module.
   # In case you want to deploy to Heroku, you will have to pay for an extra dyno.
