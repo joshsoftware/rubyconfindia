@@ -241,6 +241,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  daemons (= 1.0.10)
   dalli (= 1.1.4)
   locomotive_cms!
   rails (= 3.0.10)
