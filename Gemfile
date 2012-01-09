@@ -13,7 +13,7 @@ gem 'cells', '3.7.0'
 gem 'dalli', '1.1.4'
 # Deploy with Capistrano
 # gem 'capistrano'
-gem 'daemons', '1.1.0'
+#gem 'daemons', '1.1.0'
 # To use debugger (ruby-debug for Ruby 1.8.7+, ruby-debug19 for Ruby 1.9.2+)
 # gem 'ruby-debug'
 # gem 'ruby-debug19', :require => 'ruby-debug'
