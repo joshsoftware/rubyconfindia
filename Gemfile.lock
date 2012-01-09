@@ -240,7 +240,6 @@ PLATFORMS
 
 DEPENDENCIES
   cells (= 3.7.0)
-  daemons (= 1.1.0)
   dalli (= 1.1.4)
   locomotive_cms!
   rails (= 3.0.10)
